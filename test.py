@@ -1,1 +1,0 @@
-print("Resume Analyzer Project Started!")
